@@ -1,0 +1,12 @@
+{
+  "name": "apidoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "apidoc": "apidoc -i src/api/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
